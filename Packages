@@ -1196,3 +1196,32 @@ Section: Tweaks
 Size: 3160 
 MD5sum: ecdaaca82755ee45e696bee0927ffccd
 Filename: deb/com.alshaman.dock.hide_0.0.1-1+debug_iphoneos-arm.deb
+
+
+
+Package: com.alshaman.allow.select.all
+Name: Allow Select All
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Allow Select All to Camera Roll
+Maintainer: Saud Alshaman
+Author: Saud Alshaman
+Section: Tweaks
+Size: 3236 
+MD5sum: 3e622c4c229d1cb2bc4d5cda0a682d98
+Filename: deb/com.alshaman.allow.select.all_0.0.1-1+debug_iphoneos-arm.deb
+
+
+Package: com.alshaman.no.labels.ios12
+Name: No Labels iOS 12
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Hides Application and Folder Labels on Home Screen 
+Maintainer: Saud Al.shaman <alshaman64@gmail.com>
+Author: Saud Al.shaman <alshaman64@gmail.com>
+Size: 3078 
+MD5sum: 75927e7d6e90e9575136e0d5a26c3120
+Filename: deb/com.alshaman.no.labels.ios12_0.0.1-1+debug_iphoneos-arm.deb
+
